@@ -1,1 +1,2 @@
 # SchoolHubRepo
+specifikació megírása
